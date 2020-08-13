@@ -9,11 +9,8 @@ The problem is to find a schedule of the operations on the machines, taking into
 
 Constraints:
 There are several constraints for the job shop problem
-
 No task for a job can be started until the previous task for that job is completed.
-
 A machine can only work on one task at a time.
-
 A task, once started, must run to completion.
 
 
@@ -24,6 +21,7 @@ The problem is solved by using Tabu Search which gives us a local optimal soluti
 <img src="images/tabu.PNG" width="600">
 
 Later, a better solution is looked for using the Genetic Algorithm: the chromosome consists of n*m genes, i.e., each job will appear m times exactly.
+
 Selection Operator:
 The fitness function is the function of the objectives function and defined as 𝑓(𝑖)=1/𝑚𝑎𝑘𝑒𝑠𝑝𝑎𝑛.
 The selective probability is p(i)=f(i)/(summation of f(k), where k is from 1 to N)
