@@ -1,7 +1,7 @@
 Input:
-<img src="job-shop-scheduling-problem/images/pic (1).PNG">
+<img src="riyag283/job-shop-scheduling-problem/images/pic (1).PNG">
 
 Results:
-<img src="job-shop-scheduling-problem/images/pic (2).PNG">
+<img src="riyag283/job-shop-scheduling-problem/images/pic (2).PNG">
 
-<img src="job-shop-scheduling-problem/images/pic (3).PNG">
+<img src="riyag283/job-shop-scheduling-problem/images/pic (3).PNG">
